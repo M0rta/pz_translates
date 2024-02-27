@@ -1,0 +1,4 @@
+Tooltip_ES = {
+	Tooltip_UpgradeCapacity = "Material de mejoras dinámicas de mochila (capacidad)",
+	Tooltip_UpgradeWeightReduction = "Material de mejoras dinámicas de mochila (reducción de peso)",
+}

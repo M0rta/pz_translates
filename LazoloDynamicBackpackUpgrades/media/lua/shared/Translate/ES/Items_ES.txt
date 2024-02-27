@@ -1,0 +1,12 @@
+Items_DE = {
+	DisplayName_UpgradeCapacityCloth = "Stofftaschen Upgrade",
+	DisplayName_UpgradeCapacityJean = "Jeanstaschen Upgrade",
+	DisplayName_UpgradeCapacityLeather = "Ledertaschen Upgrade",
+	DisplayName_UpgradeCapacityMilitary = "Militärtaschen Upgrade",
+	
+	
+	DisplayName_UpgradeWeightReductionCloth = "Stofffetzen Upgrade",
+	DisplayName_UpgradeWeightReductionJean = "Jeansstreifen Upgrade",
+	DisplayName_UpgradeWeightReductionLeather = "Lederstreifen Upgrade",
+	DisplayName_UpgradeWeightReductionMilitary = "Militärstreifen Upgrade",
+}

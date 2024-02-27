@@ -1,0 +1,11 @@
+Recipes_ES = {
+    Recipe_Make_Cloth_Straps_Upgrade = "Crear mejora de correas de tela",
+    Recipe_Make_Denim_Straps_Upgrade = "Crear mejora de correas de mezclilla",
+    Recipe_Make_Leather_Straps_Upgrade = "Crear mejora de correas de cuero",
+    Recipe_Improvise_Military_Straps_Upgrade = "Improvisar mejora de correas militares",
+    
+    Recipe_Make_Cloth_Bag_Upgrade = "Crear mejora de bolsa de tela",
+    Recipe_Make_Denim_Bag_Upgrade = "Crear mejora de bolsa de mezclilla",
+    Recipe_Make_Leather_Bag_Upgrade = "Crear mejora de bolsa de cuero",
+    Recipe_Improvise_Military_Bag_Upgrade = "Improvisar mejora de bolsa militar",
+}

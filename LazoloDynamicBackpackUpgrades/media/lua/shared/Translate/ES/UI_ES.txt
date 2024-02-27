@@ -1,0 +1,42 @@
+Aquí tienes la traducción al español respetando la estructura del archivo:
+
+python
+
+UI_ES = {
+
+	UI_LazoloAddUpgrade = "Agregar mejora",
+	UI_LazoloUpgradeBag = "Mejorar bolsa",
+	UI_LazoloRemoveUpgrade = "Eliminar mejora",
+	
+	UI_LazoloFixUpgrades = "Reparar mejoras",
+	UI_LazoloExpectedStats = "(Capacidad: %s, Reducción de peso: %s)",
+	UI_LazoloFixManual = "Reparación manual",
+	UI_LazoloFixManualDesc = "Actualiza manualmente las estadísticas de la bolsa.",
+	UI_LazoloFixOnce = "Una vez",
+	UI_LazoloFixOnceDesc = "Restaura los valores del artículo a los valores esperados de las Mejoras dinámicas de mochila.",
+	UI_LazoloFixAlways = "Siempre",
+	UI_LazoloFixAlwaysDesc = "Marca este artículo para que se actualice automáticamente a los valores de las Mejoras dinámicas de mochila cuando haya cambios. <br> (Las actualizaciones automáticas solo se aplican a los artículos en el inventario del jugador)",
+	UI_LazoloFixNever = "Nunca",
+	UI_LazoloFixNeverDesc = "Oculta este menú permanentemente sin hacer nada. <br> Elimina todas las mejoras para volver a activarlo.",
+	
+	UI_LazoloTooFullToRemove = "La bolsa está demasiado llena <br> La eliminación resultará en una capacidad de %s",
+	UI_LazoloRequiresNeedleThread = "Requiere: Aguja e hilo",
+	UI_LazoloRequiresScissors = "Requiere: Tijeras",
+	UI_LazoloRequiresSharpItem = "Requiere: Tijeras o un objeto afilado",
+	
+	UI_LazoloUpgradeSlots = "Ranuras de mejora",
+	UI_LazoloCapacity = "Capacidad",
+	UI_LazoloWeightReduction = "Reducción de peso",
+	UI_UpgradeCapacity = "Aumenta la capacidad base en ",
+	UI_UpgradeWeightReduction = "Aumenta la eficiencia de peso en ",
+	
+	UI_UpgradeCapacityCloth = "Mejora de bolsa de tela",
+	UI_UpgradeCapacityJean = "Mejora de bolsa de mezclilla",
+	UI_UpgradeCapacityLeather = "Mejora de bolsa de cuero",
+	UI_UpgradeCapacityMilitary = "Mejora de bolsa militar",
+	
+	UI_UpgradeWeightReductionCloth = "Mejora de reducción de peso de tela",
+	UI_UpgradeWeightReductionJean = "Mejora de reducción de peso de mezclilla",
+	UI_UpgradeWeightReductionLeather = "Mejora de reducción de peso de cuero",
+	UI_UpgradeWeightReductionMilitary = "Mejora de reducción de peso militar",
+}
